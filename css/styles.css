@@ -46,7 +46,7 @@ a {
 .contacts-link-item {
 }
 .contacts-link-sand {
-    /* color: #434455; */
+    color: #434455;
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.32px;
@@ -113,9 +113,9 @@ a {
     letter-spacing: 0.72px;
 }
 .main-team-list {
-    background-color: #fff;
 }
 .main-team-imam {
+    background-color: #fff;
 }
 .main-team-foto {
 }
