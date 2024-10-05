@@ -47,6 +47,7 @@ a {
 .contacts-link-item {
 }
 .contacts-link-sand {
+    color: #2E2F42;
     font-size: 16px;
     line-height: 24px; 
     letter-spacing: 0.32px;
@@ -65,13 +66,15 @@ a {
 }
 .main-effect-button {
     color: #fff;
+    cursor: pointer;
     background-color: #4d5ae5;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px; 
     letter-spacing: 0.64px; 
 }
-.main-effect-button:hover{
+.main-effect-button:hover,
+.main-effect-button:focus{
     background-color: #404bbf;
 }
 /* 2 section */
